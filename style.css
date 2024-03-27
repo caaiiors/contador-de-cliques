@@ -13,7 +13,6 @@ body {
 
 .contador {
   width: 400px;
-
   padding: 20px;
   background-color: #77737391;
   border-radius: 10px;
@@ -21,7 +20,7 @@ body {
 }
 
 button {
-  padding: 10px 20px;
+  padding: 60px 70px;
   font-size: 16px;
   background-color: limegreen;
   color: #000000;
